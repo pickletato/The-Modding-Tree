@@ -28,9 +28,6 @@ let winText = `Congratulations! You have reached the end and beaten this game, b
 // (The ones here are examples, all official functions are already taken care of)
 var doNotCallTheseFunctionsEveryTick = ["blowUpEverything"]
 
-function getStartPoints(){
-    return new Decimal(modInfo.initialStartPoints)
-}
 
 // Determines if it should show points/sec
 function canGenPoints(){
