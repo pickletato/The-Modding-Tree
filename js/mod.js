@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "The Pyramid Tree",
 	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	author: "Pickletato",
+	pointsName: "dollars",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
